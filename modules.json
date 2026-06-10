@@ -143,16 +143,5 @@
     "zipUrl": "github.com",
     "repoUrl": "https://github.com/MrGadget84/Force-Fast-Charge",
     "license": "Unlicense"
-  },
-  {
-    "id": "mm-rs",
-    "name": "Magic Mount-RS",
-    "description": "Provide systemless mount capabilities for KernelSU.",
-    "version": "1.0.0",
-    "versionCode": 1,
-    "author": "Nixsuki",
-    "zipUrl": "github.com",
-    "repoUrl": "https://github.com/MrGadget84/Force-Fast-Charge",
-    "license": "GPL-3.0"
   }
 ]
