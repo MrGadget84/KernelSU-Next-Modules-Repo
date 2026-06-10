@@ -87,7 +87,7 @@
     "author": "gloeyisk",
     "zipUrl": "github.com",
     "repoUrl": "https://github.com/gloeyisk/systemless-hosts",
-    "license": "idk"
+    "license": "Unlicense"
   },
   {
     "id": "zygisk-next",
@@ -153,6 +153,6 @@
     "author": "Nixsuki",
     "zipUrl": "github.com",
     "repoUrl": "https://github.com/MrGadget84/Force-Fast-Charge",
-    "license": "Unlicense"
+    "license": "GPL-3.0"
   }
 ]
