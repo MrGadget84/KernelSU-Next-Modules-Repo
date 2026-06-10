@@ -98,7 +98,7 @@
     "author": "Dr-TSNG",
     "zipUrl": "github.com",
     "repoUrl": "https://github.com/Dr-TSNG/ZygiskNext",
-    "license": "idk"
+    "license": "Unlicense"
   },
   {
     "id": "trickystore",
@@ -109,7 +109,29 @@
     "author": "5ec1cff",
     "zipUrl": "github.com",
     "repoUrl": "https://github.com/5ec1cff/TrickyStore",
-    "license": "idk"
+    "license": "Unlicense"
+  },
+  {
+    "id": "ksu_toolkit",
+    "name": "KernelSU Toolkit",
+    "description": "Small extensions on top of KernelSU v3. Mostly for debugging purposes",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "author": "xx, KOWX712",
+    "zipUrl": "github.com",
+    "repoUrl": "https://github.com/rifsxd/ksu_toolkit",
+    "license": "Unlicense"
+  },
+  {
+    "id": "bindhosts",
+    "name": "Bindhosts",
+    "description": "Systemless hosts for APatch, KernelSU and Magisk",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "author": "xx, KOWX712",
+    "zipUrl": "github.com",
+    "repoUrl": "https://github.com/bindhosts/bindhosts",
+    "license": "WTFPL"
   },
   {
     "id": "force-fast-charge",
@@ -120,6 +142,17 @@
     "author": "Nixsuki",
     "zipUrl": "github.com",
     "repoUrl": "https://github.com/MrGadget84/Force-Fast-Charge",
-    "license": "idk"
+    "license": "Unlicense"
+  },
+  {
+    "id": "mm-rs",
+    "name": "Magic Mount-RS",
+    "description": "Provide systemless mount capabilities for KernelSU.",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "author": "Nixsuki",
+    "zipUrl": "github.com",
+    "repoUrl": "https://github.com/MrGadget84/Force-Fast-Charge",
+    "license": "Unlicense"
   }
 ]
