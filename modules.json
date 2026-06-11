@@ -154,5 +154,16 @@
     "zipUrl": "github.com",
     "repoUrl": "https://github.com/lsposed/lsposed",
     "license": "GPL-3.0"
+  },
+  {
+    "id": "vector",
+    "name": "LSPosed Vector",
+    "description": "Zygisk module providing an ART hooking framework",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "author": "JingMatrix",
+    "zipUrl": "github.com",
+    "repoUrl": "https://github.com/JingMatrix/Vector",
+    "license": "GPL-3.0"
   }  
 ]
