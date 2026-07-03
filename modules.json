@@ -123,17 +123,6 @@
     "license": "Unlicense"
   },
   {
-    "id": "lsposed",
-    "name": "LSPosed Framework",
-    "description": "A Riru / Zygisk module trying to provide an ART hooking framework which delivers consistent APIs with the OG Xposed, leveraging LSPlant hooking framework.",
-    "version": "1.0.0",
-    "versionCode": 1,
-    "author": "LSPosed",
-    "zipUrl": "github.com",
-    "repoUrl": "https://github.com/lsposed/lsposed",
-    "license": "GPL-3.0"
-  },
-  {
     "id": "vector",
     "name": "LSPosed Vector",
     "description": "Zygisk module providing an ART hooking framework",
