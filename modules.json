@@ -157,7 +157,7 @@
     "license": "AGPL-3.0"
   },
   {
-    "id": "kaorios-toolbox",
+    "id": "kaoriostoolbox",
     "name": "Kaorios Toolbox",
     "description": "Play Integrity fix, device spoofing, framework patching, FPS/CPU overlay, Payload extraction.",
     "version": "1.0.0",
