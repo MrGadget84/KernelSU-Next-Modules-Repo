@@ -155,5 +155,16 @@
     "zipUrl": "github.com",
     "repoUrl": "https://github.com/HeyItsJono/enable-blurs",
     "license": "AGPL-3.0"
+  },
+    {
+    "id": "kaoriostoolbox",
+    "name": "Kaorios Toolbox",
+    "description": "Play Integrity fix, device spoofing, framework patching, FPS/CPU overlay, Payload extraction.",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "author": "Wuang26",
+    "zipUrl": "github.com",
+    "repoUrl": "https://github.com/Wuang26/Kaorios-Toolbox",
+    "license": "Unlicense"
   }
 ]
