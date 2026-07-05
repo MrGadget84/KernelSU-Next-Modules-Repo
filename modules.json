@@ -145,7 +145,7 @@
     "license": "GPL-3.0",
     "bannerUrl": "https://raw.githubusercontent.com/ukriu/HyperUnlocked/refs/heads/main/banner/HyperUnlockedBanner.png"
   },
-   {
+  {
     "id": "blur",
     "name": "Enable Blur",
     "description": "This module enables support for window-level blurs on a wide range of devices.",
