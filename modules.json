@@ -188,7 +188,7 @@
     "name": "AlwaysStrong",
     "description": "One-flash STRONG Play Integrity for Magisk / KernelSU / APatch. It bundles TEESimulator-RS and PlayIntegrityFork into a single module so you don't have to stack and wire them up yourself",
     "author": "evoker0",
-    "repoUrl": "https://github.com/evoker0/AlwaysStrong/",
+    "repoUrl": "https://github.com/evoker0/AlwaysStrong",
     "license": "GPL-3.0"
     "bannerUrl": "https://raw.githubusercontent.com/evoker0/AlwaysStrong/refs/heads/main/banner.png"
   }
