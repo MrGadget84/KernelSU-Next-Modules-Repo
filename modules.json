@@ -183,5 +183,12 @@
     "author": "ViRb3",
     "repoUrl": "https://github.com/ViRb3/magisk-frida",
     "license": "Unknown"
+  },
+  {
+    "name": "Zygisk-Ultra",
+    "description": "Zygisk-Ultra is an injection implementation in the Zygote processes, built on the BreZygisk.",
+    "author": "MrGadget84",
+    "repoUrl": "https://github.com/MrGadget84/Zygisk-Ultra/",
+    "license": "AGPL-3.0"
   }
 ]
